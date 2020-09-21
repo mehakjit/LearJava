@@ -36,3 +36,10 @@ WARN  | 2020-09-20 23:53:41 | [main] Hello.App (App.java:17) - Hello World!ON LO
 ERROR | 2020-09-20 23:53:41 | [main] Hello.App (App.java:18) - Hello World!ON LOG.DEBUG 
 DEBUG | 2020-09-20 23:53:41 | [main] Hello.App (App.java:19) - Apppending string: Hello World!.
 FATAL | 2020-09-20 23:53:41 | [main] Hello.App (App.java:20) - Hello World!ON LOG.DEBUG 
+DEBUG | 2020-09-21 14:03:33 | [main] Hello.App (App.java:15) - Local change made
+DEBUG | 2020-09-21 14:03:33 | [main] Hello.App (App.java:16) - Hello World!ON LOG.DEBUG 
+INFO  | 2020-09-21 14:03:33 | [main] Hello.App (App.java:17) - Hello World!ON LOG.DEBUG 
+WARN  | 2020-09-21 14:03:33 | [main] Hello.App (App.java:18) - Hello World!ON LOG.DEBUG 
+ERROR | 2020-09-21 14:03:33 | [main] Hello.App (App.java:19) - Hello World!ON LOG.DEBUG 
+DEBUG | 2020-09-21 14:03:33 | [main] Hello.App (App.java:20) - Apppending string: Hello World!.
+FATAL | 2020-09-21 14:03:33 | [main] Hello.App (App.java:21) - Hello World!ON LOG.DEBUG 
