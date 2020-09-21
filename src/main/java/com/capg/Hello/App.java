@@ -13,6 +13,7 @@ public class App
     {
         String message = "Hello World!";
         LOG.debug("Local change made");
+        LOG.debug("change in github");
         LOG.debug(message + "ON LOG.DEBUG ");
         LOG.info(message + "ON LOG.DEBUG ");
         LOG.warn(message + "ON LOG.DEBUG ");
