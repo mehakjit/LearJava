@@ -1,0 +1,38 @@
+INFO  | 2020-09-20 23:47:22 | [main] Hello.App (App.java:16) - Hello World!ON LOG.DEBUG 
+WARN  | 2020-09-20 23:47:22 | [main] Hello.App (App.java:17) - Hello World!ON LOG.DEBUG 
+ERROR | 2020-09-20 23:47:22 | [main] Hello.App (App.java:18) - Hello World!ON LOG.DEBUG 
+FATAL | 2020-09-20 23:47:22 | [main] Hello.App (App.java:20) - Hello World!ON LOG.DEBUG 
+INFO  | 2020-09-20 23:48:15 | [main] Hello.App (App.java:16) - Hello World!ON LOG.DEBUG 
+WARN  | 2020-09-20 23:48:15 | [main] Hello.App (App.java:17) - Hello World!ON LOG.DEBUG 
+ERROR | 2020-09-20 23:48:15 | [main] Hello.App (App.java:18) - Hello World!ON LOG.DEBUG 
+FATAL | 2020-09-20 23:48:15 | [main] Hello.App (App.java:20) - Hello World!ON LOG.DEBUG 
+DEBUG | 2020-09-20 23:48:50 | [main] Hello.App (App.java:15) - Hello World!ON LOG.DEBUG 
+INFO  | 2020-09-20 23:48:50 | [main] Hello.App (App.java:16) - Hello World!ON LOG.DEBUG 
+WARN  | 2020-09-20 23:48:50 | [main] Hello.App (App.java:17) - Hello World!ON LOG.DEBUG 
+ERROR | 2020-09-20 23:48:50 | [main] Hello.App (App.java:18) - Hello World!ON LOG.DEBUG 
+DEBUG | 2020-09-20 23:48:50 | [main] Hello.App (App.java:19) - ON LOG.DEBUG Apppending strings {}Hello World!
+FATAL | 2020-09-20 23:48:50 | [main] Hello.App (App.java:20) - Hello World!ON LOG.DEBUG 
+DEBUG | 2020-09-20 23:49:41 | [main] Hello.App (App.java:15) - Hello World!ON LOG.DEBUG 
+INFO  | 2020-09-20 23:49:41 | [main] Hello.App (App.java:16) - Hello World!ON LOG.DEBUG 
+WARN  | 2020-09-20 23:49:41 | [main] Hello.App (App.java:17) - Hello World!ON LOG.DEBUG 
+ERROR | 2020-09-20 23:49:41 | [main] Hello.App (App.java:18) - Hello World!ON LOG.DEBUG 
+DEBUG | 2020-09-20 23:49:41 | [main] Hello.App (App.java:19) - ON LOG.DEBUG Apppending strings: {}.Hello World!
+FATAL | 2020-09-20 23:49:41 | [main] Hello.App (App.java:20) - Hello World!ON LOG.DEBUG 
+DEBUG | 2020-09-20 23:50:45 | [main] Hello.App (App.java:15) - Hello World!ON LOG.DEBUG 
+INFO  | 2020-09-20 23:50:45 | [main] Hello.App (App.java:16) - Hello World!ON LOG.DEBUG 
+WARN  | 2020-09-20 23:50:45 | [main] Hello.App (App.java:17) - Hello World!ON LOG.DEBUG 
+ERROR | 2020-09-20 23:50:45 | [main] Hello.App (App.java:18) - Hello World!ON LOG.DEBUG 
+DEBUG | 2020-09-20 23:50:45 | [main] Hello.App (App.java:19) - ON LOG.DEBUG Apppending string: {}.Hello World!
+FATAL | 2020-09-20 23:50:45 | [main] Hello.App (App.java:20) - Hello World!ON LOG.DEBUG 
+DEBUG | 2020-09-20 23:51:01 | [main] Hello.App (App.java:15) - Hello World!ON LOG.DEBUG 
+INFO  | 2020-09-20 23:51:01 | [main] Hello.App (App.java:16) - Hello World!ON LOG.DEBUG 
+WARN  | 2020-09-20 23:51:01 | [main] Hello.App (App.java:17) - Hello World!ON LOG.DEBUG 
+ERROR | 2020-09-20 23:51:01 | [main] Hello.App (App.java:18) - Hello World!ON LOG.DEBUG 
+DEBUG | 2020-09-20 23:51:01 | [main] Hello.App (App.java:19) - Apppending string: {}.Hello World!
+FATAL | 2020-09-20 23:51:01 | [main] Hello.App (App.java:20) - Hello World!ON LOG.DEBUG 
+DEBUG | 2020-09-20 23:53:41 | [main] Hello.App (App.java:15) - Hello World!ON LOG.DEBUG 
+INFO  | 2020-09-20 23:53:41 | [main] Hello.App (App.java:16) - Hello World!ON LOG.DEBUG 
+WARN  | 2020-09-20 23:53:41 | [main] Hello.App (App.java:17) - Hello World!ON LOG.DEBUG 
+ERROR | 2020-09-20 23:53:41 | [main] Hello.App (App.java:18) - Hello World!ON LOG.DEBUG 
+DEBUG | 2020-09-20 23:53:41 | [main] Hello.App (App.java:19) - Apppending string: Hello World!.
+FATAL | 2020-09-20 23:53:41 | [main] Hello.App (App.java:20) - Hello World!ON LOG.DEBUG 
