@@ -12,6 +12,7 @@ public class App
     public static void main( String[] args )
     {
         String message = "Hello World!";
+        LOG.debug("change in github")
         LOG.debug(message + "ON LOG.DEBUG ");
         LOG.info(message + "ON LOG.DEBUG ");
         LOG.warn(message + "ON LOG.DEBUG ");
